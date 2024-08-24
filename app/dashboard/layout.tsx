@@ -1,4 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
+export const experimental_ppr = true;
 /**
  * Layout：多个页面之间共享UI
  */
